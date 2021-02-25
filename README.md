@@ -1,5 +1,5 @@
 # damage-calc
-![](https://github.com/shun-harutaro/damage-calc-4005-gh-actions/workflows/ワークフロー名/badge.svg)
+![](https://github.com/shun-harutaro/damage-calc-4005-gh-actions/workflows/git commit -am "add actions badges"/badge.svg)
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
